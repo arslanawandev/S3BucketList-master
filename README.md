@@ -26,7 +26,7 @@ This will be ported into Firefox as soon as they support service workers.
  - Javascript - Programming Language
 
 ## Author
- - Alec Blance 
+ - Muhammad Danial
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
